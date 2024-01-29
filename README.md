@@ -16,12 +16,21 @@ A simple Snake game implementation in Java using Swing.
 ## Introduction
 
 This project is a classic Snake game implemented in Java. The game features a snake that grows in length each time it eats an apple while avoiding collisions with itself and the walls.
+A classic Snake game implemented in Java using Swing with an added scoring system.
+
+
+### Scoring
+
+The scoring system awards 10 points for each apple eaten. Challenge yourself to achieve the highest score!
+
+
 
 ## Features
 
-- Simple and intuitive gameplay.
-- Score tracking.
-- Game Over screen with the final score.
+- Navigate the snake to eat apples and grow longer.
+- Each apple eaten increases the score by 10 points.
+- Be cautious to avoid collisions with the snake's own body and the walls.
+- The game over-screen displays the final score.
 
 ## How to Play
 
@@ -47,7 +56,10 @@ Arrow Keys: Control the snake's direction (Up, Down, Left, Right).
 - Java Development Kit (JDK)
 
 
+## Improvements
+  My contribution or Improvements is that I developed about the Scores. When Snake eats an apple, it will give you 10 points as a reward. And at game over, it will show your Score.
 
+  
 ## Setup
 
 Clone the repository to your local machine:
